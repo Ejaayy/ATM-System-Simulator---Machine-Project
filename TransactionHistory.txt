@@ -1,0 +1,6 @@
+Withdrawal		-P  100.00	P 2800.00	Sun Nov 24 21:56:20 2024
+Withdrawal		-P  200.00	P  800.00	Sun Nov 24 22:01:39 2024
+Transfer Funds		-P   12.00	P  788.00	Sun Nov 24 22:01:50 2024
+Deposit			+P 5000.00	P 5788.00	Sun Nov 24 22:02:02 2024
+Pay Bills		-P  122.00	P 5666.00	Sun Nov 24 22:02:33 2024
+Transfer Funds		-P   12.00	P  988.00	Sun Nov 24 22:06:28 2024
