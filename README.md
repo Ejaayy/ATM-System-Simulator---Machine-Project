@@ -2,7 +2,7 @@
 
 ## 🧠 About the Project
 
-This **ATM System Simulator** is a console-based banking application developed in C. It mimics real-world ATM operations and allows users to manage financial transactions through a secure and interactive interface.
+This ATM System Simulator is a console-based banking application developed in C. It mimics real-world ATM operations and allows users to manage financial transactions through a secure and interactive interface. It was created as an educational project for school to demonstrate understanding of core programming concepts through a real-world simulation.
 
 The core functionality includes:
 
