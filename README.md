@@ -27,11 +27,10 @@ This project was built as a practical application of C programming concepts, foc
 * **Simulating Financial Systems:** Emulating basic banking features while maintaining data integrity.
 
 ## 👾 Login Page Screenshot  
-![ATM Menu Screenshot](atmpic.png)
-
-## 👾 Menu Screenshot  
 ![ATM Menu Screenshot](animo_bank.png)
 
+## 👾 Menu Screenshot  
+![ATM Menu Screenshot](atmpic.png)
 ## 📌 Disclaimer
 
 This project was created solely for **educational purposes and academic submission**. It does not connect to a real database or banking service and is meant only to simulate ATM functionality on a local terminal.
