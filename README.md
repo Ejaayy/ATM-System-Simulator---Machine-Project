@@ -26,10 +26,11 @@ This project was built as a practical application of C programming concepts, foc
 * **Menu-Based Flow Control:** Designing a simple yet effective CLI-based banking interface.
 * **Simulating Financial Systems:** Emulating basic banking features while maintaining data integrity.
 
-## 👾 Menu Screenshot  
-_(No image file was provided, so this section is placeholder-ready. You may add one like below if needed.)_
+## 👾 Login Page Screenshot  
+![ATM Menu Screenshot](atmpic.png)
 
-![ATM Menu Screenshot](atm_menu.png)
+## 👾 Menu Screenshot  
+![ATM Menu Screenshot](animo_bank.png)
 
 ## 📌 Disclaimer
 
